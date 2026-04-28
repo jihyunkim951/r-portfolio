@@ -1,37 +1,40 @@
-# R Learning Portfolio — Kim Jihyun
+# R & Bioinformatics Learning Portfolio — Kim Jihyun
 
-This repository documents my self-directed learning journey in R programming and bioinformatics,  
-in preparation for graduate school application in microbiology/genomics.
+Self-directed preparation for graduate research in genomic data analysis,  
+with focus on GWAS, eQTL analysis, and multi-omics integration  
+in the context of complex inflammatory diseases.
 
 ---
 
 ## Background
 
-I have hands-on wet lab experience in molecular biology techniques including PCR-based genotyping,  
-species-specific primer and probe design, qPCR workflow optimization, and nucleic acid extraction,  
+I have hands-on wet lab experience in molecular biology techniques including  
+PCR-based genotyping, species-specific primer and probe design,  
+qPCR workflow optimization, and nucleic acid extraction,  
 gained through undergraduate research and industry QC roles (CELLSAFE Co., Ltd.).
 
 I am now building computational skills to complement my experimental background,  
-with a focus on microbial community analysis and genomic data processing.
+with a focus on genomic variant analysis and immunogenomics data processing.
 
 ---
 
 ## Learning Roadmap
 
 ### Phase 1 · R Fundamentals (Month 1–2)
-- [ ] R installation and RStudio environment setup
+- [x] R installation and RStudio environment setup
 - [ ] Data structures and basic syntax (vectors, data frames, functions)
 - [ ] Data import and wrangling with tidyverse (dplyr, tidyr)
 
 ### Phase 2 · Visualization and Statistics (Month 2–3)
 - [ ] Data visualization with ggplot2
-- [ ] Basic statistical analysis (t-test, ANOVA, correlation)
-- [ ] Biostatistics (survival analysis, logistic regression)
+- [ ] GWAS summary statistics visualization (Manhattan plot, QQ plot)
+- [ ] Basic statistical analysis (t-test, ANOVA, linear regression)
 
 ### Phase 3 · Genomics Applications (Month 3–6)
-- [ ] Bioconductor basics (DESeq2, edgeR for gene expression analysis)
-- [ ] Microbial community analysis (phyloseq, vegan — 16S rRNA diversity analysis)
-- [ ] Mini project: analysis of public dataset from NCBI/EBI
+- [ ] PLINK: SNP filtering, population stratification (PCA)
+- [ ] eQTL analysis concepts and practice
+- [ ] Multi-omics integration (gene expression + DNA methylation)
+- [ ] Mini project: visualization of public GWAS summary statistics
 
 ---
 
@@ -39,11 +42,12 @@ with a focus on microbial community analysis and genomic data processing.
 
 | Tool / Package | Purpose | Status |
 |---|---|---|
-| tidyverse | Data wrangling | 🔲 Planned |
-| ggplot2 | Visualization | 🔲 Planned |
-| DESeq2 | RNA-seq analysis | 🔲 Planned |
-| phyloseq | Microbiome analysis | 🔲 Planned |
-| vegan | Ecological statistics | 🔲 Planned |
+| R / RStudio | Programming environment | 🔄 In progress |
+| tidyverse | Data wrangling | 🔄 In progress |
+| ggplot2 | Visualization | 🔄 In progress |
+| PLINK | SNP-level analysis | 📅 Planned |
+| GATK | Variant calling pipeline | 📅 Planned |
+| ANNOVAR | Functional annotation | 📅 Planned |
 
 ---
 
@@ -61,8 +65,9 @@ with a focus on microbial community analysis and genomic data processing.
 ## Goal
 
 To integrate wet lab molecular biology experience with computational genomics skills,  
-and contribute to research in microbial genetics or genomics at the graduate level.
+and contribute to research on the genetic basis of complex inflammatory diseases  
+at the graduate level.
 
 ---
 
-*Last updated: 2026*
+*Last updated: April 2026*
