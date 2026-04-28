@@ -27,7 +27,7 @@ with a focus on genomic variant analysis and immunogenomics data processing.
 
 ### Phase 2 · Visualization and Statistics (Month 2–3)
 - [ ] Data visualization with ggplot2
-- [ ] GWAS summary statistics visualization (Manhattan plot, QQ plot)
+- [x] GWAS summary statistics visualization (Manhattan plot, QQ plot)
 - [ ] Basic statistical analysis (t-test, ANOVA, linear regression)
 
 ### Phase 3 · Genomics Applications (Month 3–6)
