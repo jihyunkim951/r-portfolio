@@ -71,3 +71,9 @@ at the graduate level.
 ---
 
 *Last updated: April 2026*
+---
+## Projects
+
+### 01. GWAS Visualization
+![Manhattan Plot](manhattan_plot.png)
+![QQ Plot](qq_plot.png)
